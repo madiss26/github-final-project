@@ -13,3 +13,9 @@ Input:
    
 Output
    simple interest = p*t*r
+
+
+
+Hello and welcome !
+Our mission is to empower and provide opportunities to low income individuals.
+This is our sample code to calculate simple interest.
